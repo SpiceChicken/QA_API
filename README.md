@@ -4,7 +4,7 @@
 - 테스트 대상: [https://reqres.in](https://reqres.in)
 - Reqres API 기반 Python API 테스트 자동화
 - pytest + requests 라이브러리 사용
-- 기능별 모듈화 (auth, user, resource)
+- 기능별 모듈화 (auth, user, resource, ...)
 
 ## 프로젝트 구조
 ```
