@@ -7,16 +7,13 @@
 - 기능별 모듈화 (auth, user, resource)
 
 ## 프로젝트 구조
-qa_api_project/
+```qa_api_project/
 ├── api_tests/ (API 호출 함수)
-
 ├── tests/ (pytest 테스트 케이스)
-
 ├── requirements.txt
-
 ├── pytest.ini
-
 └── setup.py
+```
 
 ## 📋 수행 항목
 1. 로그인
